@@ -1,1 +1,1 @@
-My project - GIT Testiing
+My project - GIT Testing
