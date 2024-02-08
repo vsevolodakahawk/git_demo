@@ -10,4 +10,4 @@ foreach ($process in $processes) {
 }
 
 # Export the hash-table to a file
-$processesHash | Export-Clixml -Path ".\processesHash.xml"
+$processesHash | Export-Clixml -Path ".\processes.xml"
